@@ -1,3 +1,15 @@
-# responsive-portfolio
+# Portfolio Page
 
-<!-- https://wireframe.cc/wHquj5 -->
+## Description 
+
+This is a proffesional portfolio that showcases the works and projects, and acts as a resume for companies.
+
+
+## Usage 
+
+
+
+## License
+
+Please refer to the LICENSE in the repo.
+
