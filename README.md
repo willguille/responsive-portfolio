@@ -7,7 +7,7 @@ This is a proffesional portfolio that showcases the works and projects, and acts
 
 ## Usage 
 
-Follow the [link](https://willguille.github.io/responsive-portfolio/) to see the final result of the code refactor.
+Follow the [link](https://willguille.github.io/responsive-portfolio/) to see the final result of the portfolio.
 ![Screenshot of the deployed website](assets/screencapture-web.png)
 
 ## License
